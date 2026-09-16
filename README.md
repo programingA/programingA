@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+![React](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=react&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+
 
 <!--
 **programingA/programingA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
