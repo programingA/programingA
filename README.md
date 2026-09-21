@@ -106,11 +106,10 @@ Flutter와 Dart를 활용한 모바일 애플리케이션 개발을 공부하고
 
 ## 🏆 Experience & Activities
 
-|       Period      | Activity               | Description                      |
-| :---------------: | :--------------------- | :------------------------------- |
-| 2025.01 ~ 2025.12 | **MIT Club President** | MIT 동아리 회장                       |
-|      UMC 10th     | **UMC Web**  **Passro** | 타 대학 PM · Designer · Backend와 협업 
-                                              (프로젝트 내용: 대학생 통학 동선 기반 배달 서비스 프로젝트) |
+|       Period      | Activity               | Description                                                                   |
+| :---------------: | :--------------------- | :---------------------------------------------------------------------------- |
+| 2025.01 ~ 2025.12 | **MIT Club President** | MIT 동아리 회장                                                                    |
+|      UMC 10th     | **UMC Web · Passro**   | Web 파트로 참여하여 타 대학 PM · Designer · Backend와 협업해 대학생 통학 동선 기반 배달 서비스 개발 및 대회 출품 |
 
 <br/>
 
