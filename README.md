@@ -140,6 +140,65 @@ https://github.com/programingA/DeepLearningProject
 
 <div align="center">
 
+## 🏆 Experience & Activities
+
+### 👥 MIT Club — President
+
+**2025.01 ~ 2025.12**
+
+* MIT 동아리 회장으로 활동
+* 동아리 운영 및 프로젝트 활동 참여
+
+<br/>
+
+### 🌱 UMC 10th — Web
+
+**External IT Community**
+
+다른 학교의 **Designer, PM, Backend Developer**와 협업하여 하나의 서비스를 기획하고 개발하는 프로젝트 활동에 참여했습니다.
+
+#### 📦 Passro
+
+> 대학생이 통학 중 간단한 물품을 대신 배달하고 보상을 받을 수 있도록 연결하는 서비스
+
+* UMC 10th Web 파트로 참여
+* Designer, PM, Backend Developer와 협업하여 서비스 개발
+* 대학생의 통학 동선을 활용한 간단한 배달 서비스 구현
+* 완성한 프로젝트를 대회에 출품
+
+<br/>
+
+## 🥇 Awards
+
+### 🏅 2025 동양 EXPO — 장려상
+
+#### 👓 Smart Wearable for the Visually Impaired
+
+> 시각장애인이 주변 환경과 전방의 사물을 인식할 수 있도록 보조하는 스마트 웨어러블 장비
+
+**Role**
+
+프로젝트의 하드웨어 구성부터 센서 제어, 객체 인식 및 사용자 피드백 기능까지 **전체 시스템을 단독으로 설계·개발했습니다.**
+
+**Main Features**
+
+* LiDAR 센서를 이용한 주변 거리 및 장애물 탐지
+* 초음파 센서를 이용한 근거리 장애물 탐지
+* 자이로 센서를 이용한 움직임 및 방향 정보 처리
+* 카메라 영상을 기반으로 YOLO 객체 탐지 모델 실행
+* 전방에 있는 사물을 객체 탐지 결과를 통해 인식
+* 인식한 정보를 블루투스 이어폰을 통해 사용자에게 음성으로 전달
+
+**Tech Stack**
+
+`C` `Python` `YOLO` `LiDAR Sensor` `Ultrasonic Sensor` `Gyroscope` `Camera` `Bluetooth`
+
+**Result**
+
+* 도전팀 **32팀 중 최종 16팀** 진출
+* **2025 동양 EXPO 장려상 수상**
+
+
 ## 📊 GitHub Activity
 
 <img
