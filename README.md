@@ -37,7 +37,7 @@ alt="Profile Views"
 
 ### 📱 Mobile Development
 
-Flutter와 Dart를 활용한 모바일 애플리케이션 개발을 공부하고 있습니다.
+UMC 11th Mobile 파트에 지원해 Flutter와 Dart를 활용한 모바일 애플리케이션 개발을 공부하고 있습니다.
 
 `Flutter` `Dart` `Android Studio`
 
