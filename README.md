@@ -110,7 +110,6 @@ Flutter와 Dart를 활용한 모바일 애플리케이션 개발을 공부하고
 | :---------------: | :--------------------- | :---------------------------------------------------------------------------- |
 | 2025.01 ~ 2025.12 | **MIT Club President** | MIT 동아리 회장                                                                    |
 |      UMC 10th     | **UMC Web · Passro**   | Web 파트로 참여하여 타 대학 PM · Designer · Backend와 협업해 대학생 통학 동선 기반 배달 서비스 개발 및 대회 출품 |
-|      UMC 11th     | **UMC Mobile**         | Dart언어와 Flutter 학습 중 |
 
 <br/>
 
@@ -132,43 +131,11 @@ Flutter와 Dart를 활용한 모바일 애플리케이션 개발을 공부하고
 
 </div>
 
-### 🚗 Autonomous Driving Mini Car
-
-Jetson Orin Nano 기반 자율주행 미니카
-
-`Python` `YOLOv8` `OpenCV` `Arduino`
-
-🔗 [Repository](https://github.com/programingA/IoT_automatic_driving)
-
----
-
-### 🌌 Memory Space
-
-기억과 장소를 연결하는 웹 서비스
-
-`React` `Java` `SQL`
-
-🔗 [Repository](https://github.com/programingA/Memory-Space-Project)
-
----
-
-### 📈 Deep Learning Project
-
-주가 데이터를 활용한 머신러닝 · 딥러닝 프로젝트
-
-`Python` `Deep Learning` `React` `Vite`
-
-🔗 [Repository](https://github.com/programingA/DeepLearningProject)
-
----
-
-### ⚛️ React Project
-
-React 학습 및 실습 프로젝트
-
-`React` `Vite`
-
-🔗 [Repository](https://github.com/programingA/ReactProject)
+| Project                            | Description                     | Tech Stack                                           |                            Repository                           |
+| :--------------------------------- | :------------------------------ | :--------------------------------------------------- | :-------------------------------------------------------------: |
+| 🎬 **Cinema Memory**               | 개인의 추억을 영화처럼 기록하고 다시 감상하는 웹 서비스 | `Next.js` `TypeScript` `Spring Boot` `MySQL` `Redis` |     [🔗 View](https://github.com/programingA/Cinema-Memory)     |
+| 🌌 **Memory Space**                | 기억과 장소를 연결하여 기록하는 웹 서비스         | `React` `Java` `SQL`                                 |  [🔗 View](https://github.com/programingA/Memory-Space-Project) |
+| 🚗 **Autonomous Driving Mini Car** | Jetson과 Arduino 기반 자율주행 미니카     | `Python` `YOLOv8` `OpenCV` `Arduino`                 | [🔗 View](https://github.com/programingA/IoT_automatic_driving) |
 
 <br/>
 
