@@ -138,8 +138,6 @@ https://github.com/programingA/DeepLearningProject
 
 ---
 
-<div align="center">
-
 ## 🏆 Experience & Activities
 
 ### 👥 MIT Club — President
@@ -198,7 +196,8 @@ https://github.com/programingA/DeepLearningProject
 * 도전팀 **32팀 중 최종 16팀** 진출
 * **2025 동양 EXPO 장려상 수상**
 
-
+<div align="center">
+  
 ## 📊 GitHub Activity
 
 <img
