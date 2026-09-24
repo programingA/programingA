@@ -127,7 +127,7 @@ UMC 11th Mobile 파트에 지원해 Flutter와 Dart를 활용한 모바일 애�
 
 ## 🥇 Awards
 
-### 🏅 2025 동양 EXPO — 장려상
+### 🏅 2025 Dongyang EXPO — 장려상
 
 **시각장애인을 위한 Smart Wearable**
 
