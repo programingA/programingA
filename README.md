@@ -35,6 +35,17 @@ alt="Profile Views"
 
 <br/>
 
+### 🚁 Dongyang EXPO 2026
+
+**공사현장 위기상황 탐지 및 대응을 위한 드론 모니터링 시스템**
+
+공사현장에서 발생할 수 있는 위험 상황을 탐지하는 드론과
+드론의 상태 및 현장 상황을 실시간으로 모니터링하고 제어할 수 있는 웹 서비스를 개발하고 있습니다.
+
+**Drone · Hazard Detection · Real-time Monitoring · Web Control**
+
+<br/>
+
 ### 📱 Mobile Development
 
 UMC 11th Mobile 파트에 지원해 Flutter와 Dart를 활용한 모바일 애플리케이션 개발을 공부하고 있습니다.
@@ -109,7 +120,7 @@ UMC 11th Mobile 파트에 지원해 Flutter와 Dart를 활용한 모바일 애�
 |       Period      | Activity               | Description                                                                   |
 | :---------------: | :--------------------- | :---------------------------------------------------------------------------- |
 | 2025.01 ~ 2025.12 | **MIT Club President** | MIT 동아리 회장                                                                    |
-| 2026.05.09 | **SOMKATHON** | PM으로 참가하여 '밈학당'이라는 프로젝트를 설계하여 발표하였습니다. |
+| 2026.05.09 | **SOMKATHON** | PM으로 참가하여 '밈학당'이라는 프로젝트를 설계하여 발표 |
 |      UMC 10th     | **UMC Web · Passro**   | Web 파트로 참여하여 타 대학 PM · Designer · Backend와 협업해 대학생 통학 동선 기반 배달 서비스 개발 및 대회 출품 |
 
 <br/>
