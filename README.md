@@ -35,17 +35,6 @@ alt="Profile Views"
 
 <br/>
 
-### 🚁 Dongyang EXPO 2026
-
-**공사현장 위기상황 탐지 및 대응을 위한 드론 모니터링 시스템**
-
-공사현장에서 발생할 수 있는 위험 상황을 탐지하는 드론과
-드론의 상태 및 현장 상황을 실시간으로 모니터링하고 제어할 수 있는 웹 서비스를 개발하고 있습니다.
-
-**Drone · Hazard Detection · Real-time Monitoring · Web Control**
-
-<br/>
-
 ### 📱 Mobile Development
 
 UMC 11th Mobile 파트에 지원해 Flutter와 Dart를 활용한 모바일 애플리케이션 개발을 공부하고 있습니다.
@@ -136,6 +125,17 @@ UMC 11th Mobile 파트에 지원해 Flutter와 Dart를 활용한 모바일 애�
 프로젝트 전체 시스템을 단독으로 설계 및 개발했습니다.
 
 **32팀 참가 → 최종 16팀 진출 → 장려상**
+
+<br/>
+
+### 🚁 2026 Dongyang EXPO — 장려상
+
+**공사현장 위기상황 탐지 및 대응을 위한 드론 모니터링 시스템**
+
+공사현장에서 발생할 수 있는 위험 상황을 탐지하는 드론과
+드론의 상태 및 현장 상황을 실시간으로 모니터링하고 제어할 수 있는 웹 서비스를 개발했습니다.
+
+**Drone · Hazard Detection · Real-time Monitoring · Web Control**
 
 <br/>
 
